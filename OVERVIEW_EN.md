@@ -1,10 +1,10 @@
-**Language:** [Magyar](OVERVIEW_HU.md) | [English](OVERVIEW_EN.md)
+**Language / Nyelv:** [English](OVERVIEW_EN.md) · [Magyar](OVERVIEW_HU.md)
 
 # LEGAL-RQV Professional — Overview
 
 **A source-bound framework for preparing and checking legal work with AI**
 
-Author: Andor Almási · Current release: v1.1.1 (October 2026) · Public overview
+Author: Almási Andor · Current release: v1.1.1 (October 2026) · Public overview
 
 > This is a public overview. It explains what the system is, why it exists and which principles it follows. It does not contain code, schemas, configuration, test cases, scoring rules or any other detail from which the system could be rebuilt. The full package is confidential and is shared only under a non-disclosure agreement.
 
@@ -62,8 +62,8 @@ LEGAL-RQV is a discipline for **preparing** legal work to a professional standar
 
 The detailed professional specification and the runnable package are confidential. They can be made available for professional evaluation under a non-disclosure agreement.
 
-Contact: [github.com/hyperbetteri](https://github.com/hyperbetteri)
+Contact: [hyperbetteri@gmail.com](mailto:hyperbetteri@gmail.com) · [github.com/hyperbetteri](https://github.com/hyperbetteri)
 
 ---
 
-© 2026 Andor Almási. All rights reserved. May be freely quoted with attribution.
+© 2026 Almási Andor. All rights reserved. May be freely quoted with attribution.

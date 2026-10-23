@@ -1,4 +1,4 @@
-**Nyelv:** [Magyar](OVERVIEW_HU.md) | [English](OVERVIEW_EN.md)
+**Language / Nyelv:** [English](OVERVIEW_EN.md) · [Magyar](OVERVIEW_HU.md)
 
 # LEGAL-RQV Professional — bemutatás
 
@@ -62,7 +62,7 @@ A LEGAL-RQV a jogi munka szakmai színvonalú **előkészítésének** fegyelme.
 
 A részletes szakmai leírás és a futtatható csomag bizalmas. Szakmai értékelés céljára titoktartási megállapodás mellett hozzáférhetővé tehető.
 
-Kapcsolat: [github.com/hyperbetteri](https://github.com/hyperbetteri)
+Kapcsolat: [hyperbetteri@gmail.com](mailto:hyperbetteri@gmail.com) · [github.com/hyperbetteri](https://github.com/hyperbetteri)
 
 ---
 
