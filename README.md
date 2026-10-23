@@ -1,6 +1,6 @@
 # LEGAL-RQV Professional — Overview / Bemutatás
 
-**Andor Almási** — a source-bound framework for preparing and checking legal work with AI, focused on Hungarian and EU law.
+**Almási Andor** — a source-bound framework for preparing and checking legal work with AI, focused on Hungarian and EU law.
 
 **Almási Andor** — forráshoz kötött keretrendszer jogi munka AI-val történő előkészítésére és ellenőrzésére, elsősorban a magyar és az uniós jogra.
 
@@ -22,6 +22,8 @@ Az AI gördülékeny jogi szöveget ír — és a gördülékenység elrejti a h
 This repository contains a public overview only — no code, configuration, schemas or test cases. The full package is confidential and available under NDA.
 
 Ez a repó csak publikus bemutatót tartalmaz — kódot, konfigurációt, sémát vagy teszteseteket nem. A teljes csomag bizalmas, titoktartási megállapodás mellett érhető el.
+
+**Contact / Kapcsolat:** [hyperbetteri@gmail.com](mailto:hyperbetteri@gmail.com)
 
 **Related / Kapcsolódó:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies) · [Lunar-Recycling-and-Terminator-Lab](https://github.com/hyperbetteri/Lunar-Recycling-and-Terminator-Lab)
 
