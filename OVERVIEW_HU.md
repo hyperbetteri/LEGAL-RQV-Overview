@@ -1,3 +1,5 @@
+**Nyelv:** [Magyar](OVERVIEW_HU.md) | [English](OVERVIEW_EN.md)
+
 # LEGAL-RQV Professional — bemutatás
 
 **Forráshoz kötött keretrendszer jogi munka AI-val történő előkészítésére és ellenőrzésére**

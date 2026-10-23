@@ -1,3 +1,5 @@
+**Language:** [Magyar](OVERVIEW_HU.md) | [English](OVERVIEW_EN.md)
+
 # LEGAL-RQV Professional — Overview
 
 **A source-bound framework for preparing and checking legal work with AI**
@@ -16,7 +18,7 @@ It supports, among others:
 
 - legal research and targeted legal questions;
 - drafting new contracts and reviewing existing ones;
-- legal letters (notices, replies, complaints);
+- legal letters (demand letters, replies, complaints);
 - procedural filings to courts and authorities;
 - compliance reviews;
 - evidence matrices;
@@ -37,7 +39,7 @@ Each of these can be invisible in a well-written answer and costly in a real cas
 ## Core principles
 
 1. **No legal claim without a source.** Every substantive legal statement is linked to an official, authoritative source and the exact provision. Sources are graded by how authoritative they are; a consolidated or secondary text is not treated as equal to the official publication.
-2. **Jurisdiction is never silent.** The applicable legal system must be stated explicitly and traceably. The system does not quietly fall back to a default.
+2. **Jurisdiction is never silent.** The applicable legal system must be established explicitly and traceably. The system does not quietly fall back to a default.
 3. **Time is handled separately.** The time of the answer, the date of the legal state examined, the date of the relevant events and the time each source was checked are recorded as separate facts, not mixed.
 4. **Deadlines are checked on their own.** Deadlines and their legal basis are verified as a separate step.
 5. **Document-type completeness.** Each document type (for example a contract, a letter or a filing) has its own mandatory elements, and missing elements are flagged.
@@ -54,7 +56,7 @@ The release is versioned and accompanied by its own automated self-tests and str
 
 ## What it is not
 
-LEGAL-RQV is a discipline for **preparing** legal work to a professional standard. It does not create a lawyer–client relationship, does not represent anyone, and does not replace the responsibility of a qualified lawyer.
+LEGAL-RQV is a discipline for **preparing** legal work to a professional standard. It does not create a lawyer–client relationship, does not represent anyone, and does not replace the professional responsibility of a lawyer.
 
 ## Access
 
@@ -64,4 +66,4 @@ Contact: [github.com/hyperbetteri](https://github.com/hyperbetteri)
 
 ---
 
-© 2026 Andor Almási. All rights reserved. Quotation with attribution is welcome.
+© 2026 Andor Almási. All rights reserved. May be freely quoted with attribution.
