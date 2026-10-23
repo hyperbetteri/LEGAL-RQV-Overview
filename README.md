@@ -23,6 +23,6 @@ This repository contains a public overview only — no code, configuration, sche
 
 Ez a repó csak publikus bemutatót tartalmaz — kódot, konfigurációt, sémát vagy teszteseteket nem. A teljes csomag bizalmas, titoktartási megállapodás mellett érhető el.
 
-**Related / Kapcsolódó:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies)
+**Related / Kapcsolódó:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies) · [Lunar-Recycling-and-Terminator-Lab](https://github.com/hyperbetteri/Lunar-Recycling-and-Terminator-Lab)
 
 © 2026 Almási Andor. All rights reserved. / Minden jog fenntartva.
